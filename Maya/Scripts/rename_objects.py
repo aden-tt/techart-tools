@@ -1,5 +1,6 @@
 # Bulk Naming Script
 # This script allows users to select multiple objects and rename them with a prefix and a specified number of digits (e.g., object_0001)
+# Last Updated: 9/1/2025
 
 import maya.cmds as cmds
 
